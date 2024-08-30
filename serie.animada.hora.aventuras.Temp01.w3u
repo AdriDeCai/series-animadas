@@ -1,0 +1,40 @@
+{
+"name": "HORA AVENTURAS TEMP01",
+"image": "https://pics.filmaffinity.com/adventure_time_come_along_with_me-959122329-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/adventure_time_come_along_with_me-959122329-large.jpg",
+"url": "",
+"info": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/adventure_time_come_along_with_me-959122329-large.jpg",
+"url": "",
+"info": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+
+
+
+
+
+]
+}
