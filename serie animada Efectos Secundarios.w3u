@@ -1,0 +1,46 @@
+{
+"name": "Efectos Secundarios",
+"image": "https://pics.filmaffinity.com/common_side_effects-450034236-large.jpg",
+"url": "https://github.com/AdriDeCai/series-animadas/blob/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+
+{
+"name": "CAPITULO 01",
+"image": "https://pics.filmaffinity.com/common_side_effects-450034236-large.jpg",
+"url": "https://ryderjet.com/file/e91kru9deuuc",
+"info": "[2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 02",
+"image": "https://pics.filmaffinity.com/common_side_effects-450034236-large.jpg",
+"url": "https://ryderjet.com/file/aglxwgf61dnh",
+"info": "[2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 03",
+"image": "https://pics.filmaffinity.com/common_side_effects-450034236-large.jpg",
+"url": "https://ryderjet.com/file/dms8hi48klh6",
+"info": "[2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
